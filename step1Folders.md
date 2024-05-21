@@ -31,7 +31,7 @@ Link to your institutional Data Management Planning Page
 
 Contact your institute's library or research office to find out more about data management and data management plans at your organisation.
 
-DMP INFO
+Our data management information is available here. https://www.griffith.edu.au/library/research-publishing/working-with-data/manage-and-plan
 
 
 
